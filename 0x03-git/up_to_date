@@ -1,5 +1,1 @@
-git add up_to_date
-git commit -m "up_to_date"
-git .
-git commit -m "up_to_date"
-git push origin master
+git pull
